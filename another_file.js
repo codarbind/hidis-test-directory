@@ -1,3 +1,3 @@
-hidis(console.log("hel lo"));
+hidis(console.log("hel l o"));
 
 export function asdf() {}
