@@ -1,3 +1,3 @@
 export function asdf() {
 }
-let a = 2;
+let dfa = 42;
