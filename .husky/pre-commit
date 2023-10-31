@@ -1,7 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-#hidis starts - Access the commit message as an argument
-commitMessage="$1"
-node .hidis/precomm.js "$commitMessage"
-#hidis ends
+node .hidis/precomm.js
